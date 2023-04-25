@@ -1,3 +1,21 @@
+// Here are the default settings for AstroPaper theme. 
+
+// author: ""
+// pubDatetime: ""
+// title: ""
+// postSlug: ""
+// featured: bool
+// draft: bool
+// tags:
+//   - docs
+// ogImage: ""
+// description:
+//   Some rules & recommendations for creating or adding new posts using AstroPaper
+//   theme.
+// ---
+
+
+
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.taxonomy.contentTypes": [
@@ -7,26 +25,32 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "Title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "Description",
-          "name": "description",
+          "title": "Author",
+          "name": "author",
           "type": "string"
         },
         {
           "title": "Publishing date",
-          "name": "date",
+          "name": "pubDatetime",
           "type": "datetime",
           "default": "{{now}}",
           "isPublishDate": true
         },
         {
-          "title": "Content preview",
-          "name": "preview",
-          "type": "image"
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "PostSlug",
+          "name": "postSlug",
+          "type": "string"
+        },
+        
+        {
+          "title": "Featured",
+          "name": "featured",
+          "type": "boolean"
         },
         {
           "title": "Is in draft",
@@ -38,11 +62,18 @@
           "name": "tags",
           "type": "tags"
         },
+     
         {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
+          "title": "OG Image",
+          "name": "ogImage",
+          "type": "image"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
         }
+    
       ]
     }
   ],
