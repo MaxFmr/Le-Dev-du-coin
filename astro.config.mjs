@@ -20,11 +20,11 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [
-      remarkToc,
+      [remarkToc, { heading: "Sommaire" }],
       [
         remarkCollapse,
         {
-          test: "Table of contents",
+          test: "Sommaire",
         },
       ],
     ],
