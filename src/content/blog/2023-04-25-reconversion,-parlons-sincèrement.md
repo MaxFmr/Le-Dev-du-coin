@@ -50,7 +50,7 @@ Bah rien, parce que, en tout, j'ai 6 mois de dev après formation. À ce niveau 
 
 Là, il y a alors deux choses à regarder : est-ce que je peux manger ? Oui. Si non, on cherche un taf vite et on continue à se former en parallèle. Ça, c'est le mode "légende". Si on a du chômage ou autre, c'est cool. Il faut simplement se poser la question : ai-je envie de faire de l'informatique encore ? Si oui, alors on ne lâche rien.
 
-## Micro entreprise, Hello ! Je sais faire des sites !
+## Micro entreprise : "Hello ! Je sais faire des sites !"
 
 Est-ce que après un stage de six mois je deviens intéressant sur le marché du travail ? Probablement parce que je ne coûte pas cher en salaire, mais ce n'est pas évident. Le marché est en baisse et surtout, je ne suis pas encore bien acculturé au fonctionnement de ce marché où les recruteurs sont pas toujours au top, t'invitent à un entretien pour rien et sont très souvent à côté de la plaque. Il faut apprendre à différencier les vraies des fausses bonnes opportunités.
 
@@ -66,7 +66,7 @@ Un mois plus tard, un autre client s'enchaîne. C'est gratifiant et c'est sûr, 
 
 Ça peut aller vite au début : les premiers clients se trouvent à proximité de toi, mais pour les suivants, il faut savoir prospecter et je ne sais pas le faire. Je décide donc de retourner en quête d'un contrat de travail.
 
-## Entretiens, tests, ça marche enfin, dans les ESN. Mais dit Jamy, c'est quoi une ESN ?
+## Entretiens, tests : ça marche enfin, dans les ESN. Mais dit Jamy, c'est quoi une ESN ?
 
 Une ESN (Entreprise de Services du Numérique) est le type d'entreprise où vous avez de grandes chances d'arriver en tant que junior en début de carrière. Les ESN placent des professionnels dans d'autres entreprises et génèrent une marge sur votre TJM (taux journalier moyen), vous représentant une charge salariale et l'ESN facturant un taux journalier moyen plus élevé, ce qui leur permet de se rémunérer sur la différence entre votre salaire et le taux facturé.
 
