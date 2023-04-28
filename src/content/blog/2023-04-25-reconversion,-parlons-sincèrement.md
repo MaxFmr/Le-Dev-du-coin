@@ -5,22 +5,30 @@ title: Reconversion dans le dévelpppement web, parlons sincèrement.
 postSlug: ""
 featured: false
 draft: false
-tags: []
+tags:
+  [
+    "reconversion",
+    "développement",
+    "ESN",
+    "marché",
+    "formation",
+    "IT",
+    "Test techniques",
+    "bootcamp",
+  ]
 ogImage: /assets/christian-erfurt-sxQz2VfoFBE-unsplash.jpg
 description: "Vague de reconversions dans le digital : formations, opportunités entre passion et désillusions. Parlons sincèrement de la/ma reconversion."
 ---
 
 ## Sommaire
 
-## Covid, remise en question, reconversion.
-
-Je suis en reconversion professionnelle depuis 2021. Je vais donc vous parler de mon expérience qui ressemble à celle de beaucoup d'autres, avec ses erreurs et ses déconvenues nécessaires pour appréhender le "monde de la tech", un écosystème si particulier...
+## Covid : remise en question et reconversion.
 
 En 2020, j'étais travailleur social dans une association de lutte contre les précarités. Après six ans de carrière dans le secteur social et éducatif, je n'en voyais plus le bout... Toute ma vie dans ce game ? Entre transferts affectifs, sentiment de ne pas progresser et surtout : 0 reconnaissance... Je craque, comme ça, un matin de reprise après confinement. J'arrive en réunion, une remarque de chef boomer plus ou moins mal-venue, angoisse, je vois flou, j'arrête. Je ferme mon PC et c'est terminé, à partir de là j'ai arrêté de social.
 
 S'engage une période de reboot, un an de chômage, et mon cousin dev senior me dit : "tu veux pas essayer de coder ?" Je teste, je ne comprends rien, ça m'intrigue, je m'inscris dans un bootcamp sans trop savoir, allez, on tente.
 
-Et là boom, je pars trois mois à Paris dans le meilleur endroit où j'ai eu l'occasion d'apprendre. Je termine sans la certif parce que trop hardcore pour moi, jeune moldu, mais chaud pour continuer. La réalité, c'est que ça n'a pas encore commencé, mais ça, j'allais m'en rendre compte plus tard...
+Et là boom ! je pars trois mois à Paris dans le meilleur endroit où j'ai eu l'occasion d'apprendre. Je termine sans la certif parce que trop hardcore pour moi, jeune moldu, mais chaud pour continuer. La réalité, c'est que ça n'a pas encore commencé, mais ça, j'allais m'en rendre compte plus tard...
 
 ## Le monde du dev, premières expériences, entre passion, bullshit et réalité du business.
 
@@ -32,7 +40,7 @@ Sauf que, comme disait un formateur que j'ai eu : "Le dev n'est pas une course e
 
 Première expérience en entreprise : 6 mois de stage en interne dans une ESN. D'ailleurs, je découvre à ce moment-là ce qu'est une ESN (on y reviendra.). Je découvre aussi de nouveaux métiers à base de UX, SCRUM Master, etc.
 
-J'ai de la chance, j'y rencontre des pros passionnés, sur une stack passionnante et en plus, ils me laissent continuer à me former. Stage au top, mais après ?
+J'ai de la chance, j'y rencontre des pros accueillants, sur une stack passionnante et en plus, ils me laissent continuer à me former. Stage au top, mais après ?
 
 Bah rien, parce que, en tout, j'ai 6 mois de dev après formation. À ce niveau d'expérience, c'est très compliqué de trouver des opportunités : en ESN, pas ou très peu de missions pour les juniors. Pas de business : pas de CDI, pas de CDI : pas de palais, pas de palais... pas de palais.
 
@@ -44,13 +52,13 @@ Est-ce que après un stage de six mois je deviens intéressant sur le marché du
 
 Alors, après moult refus, à cause de prestations médiocres en tests ou en entretien, ou parce que les recruteurs ont des critères dont eux seuls ont le secret, du genre : "Ce serait bien que le candidat ne soit pas trop technique pour ne pas effrayer le reste de l'équipe..." (réel), je reste au chômage.
 
-D'une manière générale, mon rapport au travail est complexe. Mais ce qui est cool, c'est que j'adore l'autonomie, le risque, la découverte et le service. En plus, je sais faire des sites, enfin presque... J'ai rencontré un pote, il est photographe et a besoin d'un site. Je lui fais, j'apprends à faire un site vitrine sur mesure de A à Z.
+D'une manière générale, mon rapport au travail est complexe. Mais ce qui est cool, c'est que j'adore l'autonomie, la découverte et le service. En plus, je sais faire des sites, enfin presque... J'ai rencontré un pote, il est photographe et a besoin d'un site. Je lui fais, j'apprends à faire un site vitrine sur mesure de A à Z.
 
 Il connaît une entreprise de peinture qui a besoin d'un site. J'ouvre alors une micro-entreprise, je présente un devis, et il est accepté. J'ai vendu mon premier site en collaboration avec mon pote et ça me redonne la patate !
 
-Un mois plus tard, un autre client s'enchaîne. C'est gratifiant et c'est sûr, c'est le métier que je veux faire : un besoin, des compétences, un produit, de la valeur.
+Un mois plus tard, un autre client s'enchaîne. C'est gratifiant et c'est sûr, c'est le métier que je veux faire : un besoin, des compétences, un produit : de la valeur.
 
-Les premiers clients se trouvent à proximité de toi, mais pour les suivants, il faut savoir prospecter et je ne sais pas le faire. Je décide donc de retourner en quête d'un contrat de travail.
+Ça peut aller vite au début : les premiers clients se trouvent à proximité de toi, mais pour les suivants, il faut savoir prospecter et je ne sais pas le faire. Je décide donc de retourner en quête d'un contrat de travail.
 
 ## Entretiens, tests, ça marche enfin, dans les ESN. Mais dit Jamy, c'est quoi une ESN ?
 
