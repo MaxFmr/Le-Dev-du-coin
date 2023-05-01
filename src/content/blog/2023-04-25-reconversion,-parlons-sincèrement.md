@@ -1,7 +1,7 @@
 ---
 author: ""
 pubDatetime: 2023-04-25T13:59:15.189Z
-title: Reconversion dans le dévelpppement web, parlons sincèrement.
+title: "Reconversion dans le dévelpppement web: parlons sincèrement."
 postSlug: ""
 featured: false
 draft: false
