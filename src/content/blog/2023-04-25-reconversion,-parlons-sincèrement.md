@@ -1,5 +1,5 @@
 ---
-author: "MK : le dev du coin"
+author: "MK aka le dev du coin"
 pubDatetime: 2023-04-25T13:59:15.189Z
 title: "Reconversion dans le développement web: parlons sincèrement."
 postSlug: "reconversion-dans-le-developpement-web-parlons-sincerement"
@@ -16,7 +16,6 @@ tags:
   - bootcamp
 ogImage: /assets/christian-erfurt-sxQz2VfoFBE-unsplash.jpg
 description: "Vague de reconversions dans le digital : formations, opportunités entre passion et désillusions. Parlons sincèrement de la/ma reconversion."
-slug: reconversion-dans-le-developpement-web-parlons-sincerement
 ---
 
 ## Sommaire
