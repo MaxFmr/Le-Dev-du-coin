@@ -1,23 +1,22 @@
 ---
-author: ""
+author: "Mk : le dev du coin"
 pubDatetime: 2023-04-25T13:59:15.189Z
 title: "Reconversion dans le développement web: parlons sincèrement."
-postSlug: ""
-featured: false
+postSlug: "reconversion-dans-le-developpement-web-parlons-sincerement"
+featured: true
 draft: false
 tags:
-  [
-    "reconversion",
-    "développement",
-    "ESN",
-    "marché",
-    "formation",
-    "IT",
-    "Test techniques",
-    "bootcamp",
-  ]
+  - reconversion
+  - développement
+  - ESN
+  - marché
+  - formation
+  - IT
+  - Test techniques
+  - bootcamp
 ogImage: /assets/christian-erfurt-sxQz2VfoFBE-unsplash.jpg
 description: "Vague de reconversions dans le digital : formations, opportunités entre passion et désillusions. Parlons sincèrement de la/ma reconversion."
+slug: reconversion-dans-le-developpement-web-parlons-sincerement
 ---
 
 ## Sommaire
