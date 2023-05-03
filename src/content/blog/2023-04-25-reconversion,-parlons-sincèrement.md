@@ -46,7 +46,7 @@ J'ai de la chance, j'y rencontre des pros accueillants, sur une stack passionnan
 
 Bah rien, parce que, en tout, j'ai 6 mois de dev après formation. À ce niveau d'expérience, c'est très compliqué de trouver des opportunités : en ESN, pas ou très peu de missions pour les juniors. Pas de business : pas de CDI, pas de CDI : pas de palais, pas de palais...
 
-Là, il y a alors deux choses à regarder : est-ce que je peux manger ? Oui. Si non, on cherche un taf vite et on continue à se former en parallèle. Ça, c'est le mode "légende". Si on a du chômage ou autre, c'est cool. Il faut simplement se poser la question : ai-je envie de faire de l'informatique encore ? Si oui, alors on ne lâche rien.
+Là, il y a alors deux choses à regarder : est-ce que je peux manger ? Oui. Si non, on cherche un taf vite et on continue à se former en parallèle. Ça, c'est le mode "légende". Si on a du chômage ou autre, c'est cool. Il faut aussi simplement se poser la question : ai-je envie de faire de l'informatique encore ? Si oui, alors on ne lâche rien.
 
 ## Micro entreprise : "Hello ! Je sais faire des sites !"
 
