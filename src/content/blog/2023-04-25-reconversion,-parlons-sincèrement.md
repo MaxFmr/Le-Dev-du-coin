@@ -22,13 +22,13 @@ description: "Vague de reconversions dans le digital : formations, opportunités
 
 ## Covid : remise en question et reconversion.
 
-En 2020, j'étais travailleur social dans une association de lutte contre les précarités. Après six ans de carrière dans le secteur social et éducatif, je n'en voyais plus le bout... Toute ma vie dans ce game ? Entre transferts affectifs, sentiment de ne pas progresser et surtout : 0 reconnaissance... Je craque, comme ça, un matin de reprise après confinement. J'arrive en réunion, une remarque de chef boomer plus ou moins mal-venue, angoisse, je vois flou, j'arrête. Je ferme mon PC et c'est terminé, à partir de là j'ai arrêté de social.
+En 2020, j'étais travailleur social dans une association de lutte contre les précarités. Après six ans de carrière dans le secteur social et éducatif, je n'en voyais plus le bout... Toute ma vie dans ce game ? Entre transferts affectifs, sentiment de ne pas progresser et surtout : 0 reconnaissance... Je craque, comme ça, un matin de reprise après confinement. J'arrive en réunion, une remarque de chef boomer plus ou moins mal-venue, angoisse, je vois flou, j'arrête. Je ferme mon PC et c'est terminé, à partir de là j'ai arrêté le social.
 
 ![desperate developer](/assets/christian-erfurt-sxQz2VfoFBE-unsplash.jpg)
 
 S'engage une période de reboot, un an de chômage, et mon cousin dev senior me dit : "tu veux pas essayer de coder ?" Je teste, je ne comprends rien, ça m'intrigue, je m'inscris dans un bootcamp sans trop savoir, allez, on tente.
 
-Et là boom ! je pars trois mois à Paris dans le meilleur endroit où j'ai eu l'occasion d'apprendre. Je termine sans la certif parce que trop hardcore pour moi, jeune moldu, mais chaud pour continuer. La réalité, c'est que ça n'a pas encore commencé, mais ça, j'allais m'en rendre compte plus tard...
+Et là boom ! je pars pour trois mois à Paris dans le meilleur endroit où j'ai eu l'occasion d'apprendre. Je termine sans la certif parce que trop hardcore pour moi, jeune moldu, mais chaud pour continuer. La réalité, c'est que ça n'a pas encore commencé, mais ça, j'allais m'en rendre compte plus tard...
 
 ## Le monde du dev, premières expériences, entre passion, bullshit et réalité du business.
 
