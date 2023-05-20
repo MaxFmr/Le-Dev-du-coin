@@ -28,7 +28,10 @@ description: ""
 
 Avant toute chose, je préfère préciser que cet articles et tous les autres ne sont pas là pour donner une feuille de route et insufler l'idée que le dev est une voie royale à laquelle il faut s'acroccher coûte que coûte.
 
-En fait, c'est largement OK d'abandonner pour se consacrer à autre chose. C'est même très positif d'éssayer, d'augmenter sa culture sans forcemment en faire un métier.
+En fait, c'est largement OK d'abandonner pour se consacrer à autre chose.
+C'est même très positif d'éssayer, d'augmenter sa culture sans forcemment en faire un métier.
+
+Le éléments qui vont suivre vont davantage concerner les personnes qui désire se professionnaliser dans l'IT.
 
 ## L'épreuve psychologique de l'apprentissage
 
@@ -61,9 +64,9 @@ Alors, ne laissez pas ces biais cognitifs prendre le contrôle de votre expérie
 ## Le Fameux sydrome de l'imposteur
 
 Ces pièges mentaux dans leur accumulation, leur répétition, amène rapidement au fameux "syndrome de l'imposteur".
-Ce compagnon indésirable qui vient s'installer dans l'esprit de nombreux développeurs ! Le syndrome de l'imposteur est ce sentiment persistant de ne pas être à la hauteur, de croire que vous êtes un imposteur qui va être découvert à tout moment.
+Ce compagnon indésirable qui vient s'installer dans l'esprit de nombreux développeurs ! Le syndrome de l'imposteur est ce sentiment persistant de ne pas être à la hauteur.
 
-Les biais cognitifs alimentent ce syndrome en amplifiant les pensées négatives et en minimisant les succès. Vous pourriez interpréter un retour constructif sur votre code comme une preuve que vous êtes incompétent, ignorant toutes les autres fois où vous avez bien fait le travail. Vous pourriez vous comparer constamment aux développeurs plus expérimentés ou plus rapides à comprendre, ne réalisant pas que chacun a son propre parcours d'apprentissage.
+Les biais cognitifs alimentent ce syndrome en amplifiant les pensées négatives et en minimisant les succès. Avec ce syndrome, vous pourriez interpréter un retour constructif sur votre code comme une preuve que vous êtes incompétent, ignorant toutes les autres fois où vous avez bien fait le travail. Vous pourriez vous comparer constamment aux développeurs plus expérimentés ou plus rapides à comprendre, ne réalisant pas que chacun a son propre parcours d'apprentissage.
 
 Tout d'abord, rappelez-vous que le syndrome de l'imposteur est courant parmi les développeurs, même les plus talentueux. Vous n'êtes pas seul dans cette bataille !
 
@@ -73,21 +76,26 @@ Enfin, apprenez à accepter les retours constructifs et à demander de l'aide lo
 
 Les développeurs expérimentés sont là pour vous soutenir et vous guider (même si parfois ils s'y prennent très mal, on y reviendra dans un prochain article sur la relation pédagogique ...). Soyez ouvert aux commentaires, utilisez-les pour vous améliorer et n'oubliez pas que chaque erreur est une opportunité d'apprendre et de grandir.
 
-## Crise d'égo, Procrastination et auto-sabotage
+## Crise d'égo
+
+A contrario, certains d'entre nous vont avoir l'ocassion d'être confrontés à leur égo, souvent par ce qu'ils estiment avoir atteint un niveau de maturité qui les rend ermétiques aux remarques même constructives. Cela peut vous paraitre bizarre mais la crise d'ego est souvent liée au manque de confiance en soi, comme une parade de notre cerveau pour éviter de se sentir faible.
+
+Là ou l'ego représente un danger pour votre progression c'est lorsqu'il vous paralyse dans le fait de demander de l'aide. Vous allez rejeter ce qu'il y a de bon à prendre dans les conseils et les remarques et rester bloqué beaucoup plus longtemps que quelqu'un qui admet d'emblé sa nécessité de progresser constamment. Demander de l'aide n'est pas un signe de faiblesse, mais plutôt un signe de force et de volonté d'apprendre.
+
+Dans le dev l'égo est très présent. Par exemple, les professionnels expériementés vont faire des choix techniques qui vont conditionner le travail de leur collaborateurs à long terme. Leur ego blocquera souvent toute tentative d'intérrogation du bien fondé d'un choix technique. Surtout si ces interrogations viennent d'un junior... En fait, dans l'idéal, il faudrait que tout le monde soit plus à l'écoute et sache se remettre en question régulièrement alors commencez à donner l'exemple dès le début de votre apprentissage !
+
+## Procrastination
 
 procrastination positive
-trouver une bonne excuse pour arrêter : faire de la merde inconsciemment
 
-## Peur de l'échec. Attention à ne pas trop pantoufler !
+## Auto-sabotage
 
-Doudou
-rester dans son lit
-Flemme
-
-peur de l'echec
-pourquoi sortir de sa zone de confort ?
+trouver une bonne excuse pour arrêter : faire de la m""" inconsciemment
 
 ## Passer en mode sport : l'importance du minset en dev
+
+zone de confort
+abnégation
 
 ## Du soutien, mais où ?
 
