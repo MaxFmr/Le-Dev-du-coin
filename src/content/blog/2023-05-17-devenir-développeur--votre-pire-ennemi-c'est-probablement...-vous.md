@@ -34,6 +34,8 @@ Les éléments qui vont suivre s'adressent donc davantage aux personnes qui dés
 
 ## L'épreuve psychologique de l'apprentissage
 
+## Education élististe consurrentielle
+
 Apprendre le dev peut être une aventure passionnante, mais elle n'est pas exempte de défis qui semblent insurmontables au premier abord. Alors que vous vous plongez dans l'univers complexe du développement, vous pourriez vous retrouver face à un adversaire sournois et insidieux : vous-même.
 
 Si vous consultez cet article, c'est probablement parce que vous êtes en quête de réponses concernant le malaise que vous ressentez, ce doute...
