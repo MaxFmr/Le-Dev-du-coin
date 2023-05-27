@@ -106,6 +106,7 @@ trouver une bonne excuse pour arrêter : faire de la m""" inconsciemment
 
 ## Passer en mode sport : l'importance du minset en dev
 
+Resilience
 zone de confort
 abnégation
 
@@ -114,3 +115,5 @@ abnégation
 Coaching et mentaurat différences avantages, investir ? oui
 
 ## L'IA au secours de la procrastination.
+
+Pour moi, l'arrivée de l'ia est enthousiasmante : levée des freins à l'aprentissage, pls d'autonomie, lutte contre la proscrastination
