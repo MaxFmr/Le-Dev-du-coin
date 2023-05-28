@@ -14,7 +14,6 @@ tags:
   - IT
   - biais
   - communication
-  - assertivité
   - auto-sabotage
   - procrastination
 
@@ -26,25 +25,25 @@ description: ""
 
 ## Disclaimer
 
-Avant toute chose, je préfère préciser que cet article et tous les autres ne sont pas là pour donner une feuille de route et insuffler l'idée que le développement est une voie royale à laquelle il faut s'accrocher coûte que coûte.
+Avant toute chose, je préfère préciser que cet article n'est pas là pour donner une feuille de route et insuffler l'idée que le développement est une voie royale à laquelle il faut s'accrocher coûte que coûte.
 
-En fait, c'est tout à fait OK d'abandonner pour se consacrer à autre chose. C'est même très positif d'essayer, d'élargir ses connaissances sans forcément en faire un métier.
+En fait, c'est tout à fait OK d'éssayer de se reconvertir et de décider de se consacrer à autre chose. Cela reste extrêmement positif d'élargir ses connaissances sans forcément en faire un métier.
 
-Les éléments qui vont suivre s'adressent donc davantage aux personnes qui désirent se professionnaliser dans l'IT.
+Cependant, douter c'est normal, mais trop douter peut être dangereux. Et pour comprendre les pièges que notre cerveau nous tend et éviter de s'auto-détruire, compromettant ainsi notre opportunité d'embrasser une carrière des plus passionnantes, penchons-nous sur les mécanismes du doute et les solutions qui s'offrent à nous pour bétonner notre mindset.
 
 ## L'épreuve psychologique de l'apprentissage
 
-## Education élististe consurrentielle
-
 Apprendre le dev peut être une aventure passionnante, mais elle n'est pas exempte de défis qui semblent insurmontables au premier abord. Alors que vous vous plongez dans l'univers complexe du développement, vous pourriez vous retrouver face à un adversaire sournois et insidieux : vous-même.
 
-Si vous consultez cet article, c'est probablement parce que vous êtes en quête de réponses concernant le malaise que vous ressentez, ce doute...
+Commençons par évoquer votre culture de l'éducation. Si vous avez grandi dans le sytème éducatif Français, l'éducation y a souvent été critiquée pour son caractère élitiste et concurrentiel, deux traits qui ont profondément influencé le système éducatif du pays. Dans cette dynamique, vous vous attendez donc à être évalué à la manière de l'école dans votre apprentissage : "Mon niveau est à comparer à celui des autres et le professeur à un impact très fort sur ma perception de ma progression".
 
-Douter est normal, mais trop douter peut être dangereux. Pour comprendre les pièges que notre cerveau nous tend et éviter de s'auto-détruire, compromettant ainsi notre opportunité d'embrasser une carrière des plus passionnantes, penchons-nous sur les mécanismes du doute et les solutions qui s'offrent à nous pour bétonner notre mindset.
+Dans votre cursus de reconversion il va être fontamental de s'extraire de cette manière de voir le choses. En effet, en developpement c'est : "Je sais faire ? Oui ou non." Et c'est tout. Et c'est à vous de vous regarder avec objectivité pour de pas tomber dans l'excès de confiance mais pas non plus dans le syndrôme de l'imposteur (On en reparle ensuite...).
+
+De ce fait les moments de tests sont à abborder avec le plus de recul possible pour vous permettre d'en retirer un maximum d'informations sur votre niveau technique mais aussi sur vos aspirations. Ils ne sont pas là pour vous juger sur ce que vous êtes et certains tests peuvent vous convenir et d'autres non, assummez-le et construisez aussi votre progression selon vos choix et vos préférences (Back-end versus front-end par exemple.).
 
 ## La plupart de vos ressentis sont irrationnels : les biais cognitifs
 
-Ah, les biais cognitifs, ces petits pièges perfides qui nous tendent des embuscades mentales à chaque tournant ! Ils sont comme des trolls cachés dans les recoins de notre esprit, prêts à saboter nos efforts d'apprentissage du développement. Mais qu'est-ce que ces fameux biais cognitifs ?
+Ces petits pièges perfides qui nous tendent des embuscades mentales à chaque tournant !
 
 En gros, les biais cognitifs sont des schémas de pensée automatiques qui nous font prendre des décisions irrationnelles ou adopter des attitudes biaisées. (Pour en savoir plus : http://www.psychomedia.qc.ca/psychologie/biais-cognitifs)
 
@@ -100,9 +99,11 @@ D'une manière générale, les comportements irrationnels sont souvent des alert
 
 La satisfaction d'avoir finalisé une tâche dont on pensait qu'elle était difficile et rébarbative est souvent de nature à ancrer dans votre cerveau la preuve de votre capacité à faire preuve d'abnégation et de professionnalisme. Il en résultera une reconnaissance de vos pairs, de nature à mettre un peu plus à distance votre tendance à la procrastination.
 
-## Auto-sabotage
+## Le drame de l'auto-sabotage
 
-trouver une bonne excuse pour arrêter : faire de la m""" inconsciemment
+Finalement, le pire scénario suite à l'anchrage d'un ou plusieurs de ces élément dans votre mindset c'est d'aller à la faute. Vous pourriez rester isolé et être forcé à l'abandon ou pire être mis de côté et subir l'exclusion comme une violence encore plus forte.
+
+Alors, comment s'éviter toute cette galère ?
 
 ## Passer en mode sport : l'importance du minset en dev
 
@@ -117,3 +118,5 @@ Coaching et mentaurat différences avantages, investir ? oui
 ## L'IA au secours de la procrastination.
 
 Pour moi, l'arrivée de l'ia est enthousiasmante : levée des freins à l'aprentissage, pls d'autonomie, lutte contre la proscrastination
+
+## Conclusion
