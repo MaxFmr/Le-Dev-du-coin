@@ -3,7 +3,7 @@ author: "MK aka le dev du coin"
 pubDatetime: 2023-04-25T13:59:15.189Z
 title: "Reconversion dans le développement web : parlons sincèrement."
 postSlug: "reconversion-dans-le-developpement-web-parlons-sincerement"
-featured: true
+featured: false
 draft: false
 tags:
   - reconversion
