@@ -17,7 +17,7 @@ tags:
   - auto-sabotage
   - procrastination
 
-ogImage: ""
+ogImage: "/assets/austin-distel-mpN7xjKQ_Ns-unsplash.jpg"
 description: "Dans la jungle de la formation informatique, de la reconversion,  ce qui vous confronte le plus à de grande difficultés, c'est votre cerveau."
 ---
 
@@ -30,6 +30,8 @@ Avant toute chose, je préfère préciser que cet article n'est pas là pour don
 En fait, **c'est tout à fait OK d'éssayer de se reconvertir et de décider de se consacrer à autre chose.** Cela reste extrêmement positif d'élargir ses connaissances sans forcément en faire un métier.
 
 Cependant, lorsqu'on se lance dans le challenge de la reconversion, douter c'est normal. Mais trop douter peut être dangereux. Et pour comprendre les pièges que notre cerveau nous tend et éviter de s'auto-détruire, compromettant ainsi notre opportunité d'embrasser une carrière des plus passionnantes, penchons-nous sur les mécanismes du doute et les solutions qui s'offrent à nous pour bétonner notre mindset.
+
+![focused web developer](/assets/wes-hicks-4-EeTnaC1S4-unsplash.jpg)
 
 ## L'épreuve psychologique de l'apprentissage
 
@@ -44,6 +46,8 @@ Si vous avez grandi dans le système éducatif Français, l'éducation y a souve
 Dans votre cursus de reconversion il va être fondamental de s'extraire de cette manière de voir le choses. En effet, en développement c'est : "Je sais faire ? Oui ou non." Et c'est tout. Et c'est à vous de vous regarder avec objectivité pour ne pas tomber dans l'excès de confiance mais pas non plus dans le syndrôme de l'imposteur (On en reparle ensuite...).
 
 De ce fait les moments de tests sont à aborder avec le plus de recul possible pour vous permettre d'en retirer un maximum d'informations sur votre niveau technique mais aussi sur vos aspirations. Ils ne sont pas là pour vous juger sur ce que vous êtes. Et certains tests peuvent vous convenir et d'autres non, assummez-le et construisez aussi votre progression selon vos choix et vos préférences.
+
+![learning situation](/assets/scott-graham-5fNmWej4tAA-unsplash.jpg)
 
 ## La plupart de vos ressentis sont irrationnels : les biais cognitifs
 
@@ -63,6 +67,8 @@ Les biais sont nombreux et ces exemples ne sont pas exhaustifs.
 
 Alors, ne laissez pas ces biais cognitifs prendre le contrôle de votre expérience d'apprentissage du développement. Prenez du recul, remettez en question vos pensées automatiques et cherchez activement des preuves de votre progression et de vos réussites. Rappelez-vous que la maîtrise du développement demande du temps et de la pratique, et que chaque obstacle sur votre chemin est une opportunité de grandir et de devenir un meilleur développeur.
 
+![scarry egg](/assets/tengyart-boOX0FQuHuw-unsplash.jpg)
+
 ## Le Fameux syndrome de l'imposteur
 
 Ces pièges mentaux que l'on vient d'évoquer, dans leur accumulation et leur répétition, conduisent rapidement au fameux "syndrome de l'imposteur". Ce compagnon indésirable s'installe dans l'esprit de nombreux développeurs ! Le syndrome de l'imposteur est ce sentiment persistant de ne pas être à la hauteur.
@@ -79,6 +85,8 @@ Les développeurs expérimentés sont là pour vous soutenir et vous guider (mê
 
 Pour aller plus loin sur le syndrome de l'imposteur du programmeur, je vous invite à consulter cet article : https://zerotomastery.io/blog/programmer-imposter-syndrome/.
 
+![desperate guy](/assets/iulia-mihailov-Ki1SlvmcswM-unsplash.jpg)
+
 ## Crise d'ego
 
 À contrario, certains d'entre nous vont être confrontés à leur ego. Cela peut vous paraître bizarre, mais la crise d'ego est souvent liée au manque de confiance en soi, comme une parade de notre cerveau pour éviter de se sentir faible.
@@ -86,6 +94,8 @@ Pour aller plus loin sur le syndrome de l'imposteur du programmeur, je vous invi
 Là où l'ego représente un danger pour votre progression, c'est lorsqu'il vous paralyse dans le fait de demander de l'aide. Vous allez rejeter ce qu'il y a de bon à prendre dans les conseils et les remarques, et rester bloqué beaucoup plus longtemps que quelqu'un qui admet d'emblée sa difficulté. Demander de l'aide n'est pas un signe de faiblesse, mais plutôt un signe de force et de volonté d'apprendre.
 
 Dans le développement, l'ego est très présent. Par exemple, les professionnels expérimentés vont faire des choix techniques qui vont conditionner le travail de leurs collaborateurs à long terme. Leur ego bloquera souvent toute tentative d'interrogation du bien-fondé d'un choix technique, surtout si ces interrogations viennent d'un junior... En fait, dans l'idéal, il faudrait que tout le monde soit plus à l'écoute et sache se remettre en question régulièrement, alors commencez à donner l'exemple dès le début de votre apprentissage !
+
+![curb your ego signalisation](/assets/orkun-azap-Pt1EJz7ygAs-unsplash.jpg)
 
 ## Procrastination
 
@@ -103,6 +113,8 @@ D'une manière générale, les comportements irrationnels sont souvent des alert
 
 La satisfaction d'avoir finalisé une tâche dont on pensait qu'elle était difficile et rébarbative est souvent de nature à ancrer dans votre cerveau la preuve de votre capacité à faire preuve d'abnégation et de professionnalisme. Il en résultera une reconnaissance de vos pairs, de nature à mettre un peu plus à distance votre tendance à la procrastination.
 
+![stop on procrastination](/assets/pedro-forester-da-silva-unEmGQqdO7Q-unsplash.jpg)
+
 ## Conclusion : Résilience
 
 La voie de la reconversion en développement informatique est sans aucun doute stimulante et enrichissante, mais elle peut aussi être jonchée d'obstacles psychologiques. De la procrastination à la crise d'ego, en passant par le syndrome de l'imposteur, de nombreux défis se dressent devant l'apprenti développeur.
@@ -112,3 +124,5 @@ Il est important de reconnaître ces défis comme faisant partie intégrante du 
 N'hésitez pas à chercher du soutien auprès de vos pairs et à pratiquer l'autoréflexion pour comprendre vos propres comportements et attitudes. Il est également utile d'adopter des techniques de gestion du temps et de trouver du plaisir dans l'apprentissage.
 
 La reconversion en développement informatique n'est pas seulement une question d'apprentissage technique; elle nécessite également une préparation psychologique et émotionnelle. Chaque étape du chemin, même les plus difficiles, est une occasion de grandir et d'apprendre. Embrassez ces défis avec curiosité et **résilience**, et vous trouverez un succès et une satisfaction durables dans votre nouvelle carrière.
+
+![resilience](/assets/alex-shute-4lA1sDFr8Y8-unsplash.jpg)
