@@ -1,21 +1,3 @@
-// Here are the default settings for AstroPaper theme. 
-
-// author: ""
-// pubDatetime: ""
-// title: ""
-// postSlug: ""
-// featured: bool
-// draft: bool
-// tags:
-//   - docs
-// ogImage: ""
-// description:
-//   Some rules & recommendations for creating or adding new posts using AstroPaper
-//   theme.
-// ---
-
-
-
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.taxonomy.contentTypes": [
@@ -46,7 +28,6 @@
           "name": "postSlug",
           "type": "slug"
         },
-        
         {
           "title": "Featured",
           "name": "featured",
@@ -62,7 +43,6 @@
           "name": "tags",
           "type": "tags"
         },
-     
         {
           "title": "OG Image",
           "name": "ogImage",
@@ -73,7 +53,6 @@
           "name": "description",
           "type": "string"
         }
-    
       ]
     }
   ],
@@ -89,24 +68,5 @@
       "title": "",
       "path": "[[workspace]]/src/content/blog"
     }
-  ],
-  "frontMatter.taxonomy.tags": [
-    "Astro",
-    "Blog",
-    "ContextAPI",
-    "HeadlessCMS",
-    "JavaScript",
-    "NextJS",
-    "ReactJS",
-    "Styled-Components",
-    "TailwindCSS",
-    "TypeScript",
-    "astro-paper",
-    "color-schemes",
-    "configuration",
-    "docs",
-    "forestry-cms",
-    "release"
-  ],
-  "frontMatter.taxonomy.categories": []
+  ]
 }
