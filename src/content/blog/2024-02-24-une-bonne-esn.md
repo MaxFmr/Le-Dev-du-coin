@@ -13,7 +13,7 @@ tags:
   - développement
   - web
 
-ogImage: ""
+ogImage: "/assets/headway-5QgIuuBxKwM-unsplash.jpg"
 description: "Usines à techniciens, Vendeuses de rêves ou révélatrices de talents ? Les ESN font souvent l'objet de critiques, parlons en au travers de mon expérience"
 ---
 
