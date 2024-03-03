@@ -49,7 +49,7 @@ Récemment, j'ai intégré INFOGENE Lille, une ESN qui servira d'exemple pour so
 
 ![curb your ego](/assets/orkun-azap-Pt1EJz7ygAs-unsplash.jpg)
 
-Il y a des idées reçues sur la rémunération des développeurs. Certains juniors ont des prétentions salariales élevées dès la sortie d'école, ce qui ne correspond pas toujours à la réalité du marché, surtout en province. Une bonne ESN saura évaluer vos compétences et votre expérience de manière précise pour proposer une rémunération juste, alignée sur le marché.
+Des idées reçues circulent concernant la rémunération des développeurs. En effet, certains développeurs juniors affichent des attentes salariales élevées dès leur sortie d'école, attentes qui ne reflètent pas toujours la réalité du marché, en particulier en province. Une ESN compétente sera capable d'évaluer avec précision vos compétences et votre expérience afin de proposer une rémunération équitable, en accord avec le marché. En outre, votre salaire sera sujet à réévaluation, basée sur la satisfaction des clients à l'égard de votre travail et sur l'évolution de vos compétences.
 
 ## Une bonne communication avec le staff commercial
 
