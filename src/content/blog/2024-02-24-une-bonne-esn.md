@@ -1,26 +1,20 @@
 ---
-author: "MK aka le dev du coin"
+author: MK aka le dev du coin
 pubDatetime: 2024-02-24T12:38:48.275Z
-title: "Une bonne ESN ?"
+title: "Une bonne ESN"
 postSlug: une-bonne-esn
 featured: false
 draft: false
 tags:
-  - reconversion
-  - ESN
-  - informatique
-  - conditions de travail
-  - formation
-  - entreprise
-  - service
-  - numérique
-  - régie
-  - commerce
-  - prestation
+  - esn
+  - bonne
+  - qualité
+  - carrière
+  - développement
+  - web
 
 ogImage: ""
 description: "Usines à techniciens, Vendeuses de rêves ou révélatrices de talents ? Les ESN font souvent l'objet de critiques, parlons en au travers de mon expérience"
-slug: une-bonne-esn-continuons-de-parler-sincerement
 ---
 
 ## Sommaire
