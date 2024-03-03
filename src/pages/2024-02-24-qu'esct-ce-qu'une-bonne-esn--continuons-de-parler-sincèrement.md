@@ -1,7 +1,7 @@
 ---
 author: "MK aka le dev du coin"
 pubDatetime: 2024-02-24T12:38:48.275Z
-title: "Une bonne ESN ? Continuons de parler sincèrement."
+title: "Une bonne ESN ?"
 postSlug: une-bonne-esn-continuons-de-parler-sincerement
 featured: false
 draft: false
