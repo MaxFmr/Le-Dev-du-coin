@@ -49,7 +49,7 @@ Récemment, j'ai intégré INFOGENE Lille, une ESN qui servira d'exemple pour so
 
 ![curb your ego](/assets/orkun-azap-Pt1EJz7ygAs-unsplash.jpg)
 
-Il y a des idées reçues sur la rémunération des développeurs. Certains juniors ont des prétentions salariales élevées dès la sortie d'école, ce qui ne correspond pas toujours à la réalité du marché, surtout en province. Une bonne ESN saura évaluer vos compétences et votre expérience de manière précise pour proposer une rémunération juste, alignée sur le marché : 28-32k annuels en province pour un junior avec moins de 3 ans d'expérience (sans compter études et stages) me semble cohérent.
+Il y a des idées reçues sur la rémunération des développeurs. Certains juniors ont des prétentions salariales élevées dès la sortie d'école, ce qui ne correspond pas toujours à la réalité du marché, surtout en province. Une bonne ESN saura évaluer vos compétences et votre expérience de manière précise pour proposer une rémunération juste, alignée sur le marché.
 
 ## Une bonne communication avec le staff commercial
 
