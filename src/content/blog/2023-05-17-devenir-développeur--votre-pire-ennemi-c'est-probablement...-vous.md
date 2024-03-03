@@ -1,5 +1,5 @@
 ---
-author: ""
+author: "MK aka le dev du coin"
 pubDatetime: 2023-08-19T14:03:11.704Z
 title: "Apprentis développeurs, votre pire ennemi c'est vous."
 postSlug: devenir-developpeurs-votre-pire-ennemi-est-probablement-vous
