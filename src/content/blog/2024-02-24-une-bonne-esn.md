@@ -25,6 +25,8 @@ Aujourd'hui, embarquons dans une aventure au cœur des Entreprises de Services d
 
 Si vous êtes comme moi, un jeune technicien, développeur, ou exerçant toute autre profession dans le numérique, il y a de fortes chances que vous vous retrouviez un jour au sein d'une entreprise de services numériques. Peut-être cela arrivera-t-il après avoir reçu un message particulièrement flatteur en privé sur LinkedIn, vous laissant un peu gêné, car c'est une approche que vous n'aviez jamais expérimentée auparavant. Vous arrivez à votre premier entretien avec la sensation d'être sur un "date" Tinder, et c'est là que l'aventure commence...
 
+![colaboration](/assets/headway-5QgIuuBxKwM-unsplash.jpg)
+
 ## Qu'est-ce qu'une ESN ?
 
 En termes simples, une ESN (Entreprise de Services du Numérique) est une société qui commercialise les services de professionnels de la technologie à d'autres entreprises, généralement facturés à la journée. Elles recherchent avant tout des missions de longue durée, souvent au sein des locaux du client, ce qui assure une rentabilité intéressante par rapport aux coûts engendrés par leurs employés, qu'ils soient en contrat à durée indéterminée (CDI) ou en freelance. Les ESN sous-traitent également entre elles, créant ainsi plusieurs niveaux d'intermédiation entre le client final et le professionnel tech.
@@ -45,9 +47,13 @@ Récemment, j'ai intégré INFOGENE Lille, une ESN qui servira d'exemple pour so
 
 ## Une évaluation précise des profils : une rémunération juste et évolutive
 
+![curb your ego](/assets/orkun-azap-Pt1EJz7ygAs-unsplash.jpg)
+
 Il y a des idées reçues sur la rémunération des développeurs. Certains juniors ont des prétentions salariales élevées dès la sortie d'école, ce qui ne correspond pas toujours à la réalité du marché, surtout en province. Une bonne ESN saura évaluer vos compétences et votre expérience de manière précise pour proposer une rémunération juste, alignée sur le marché : 28-32k annuels en province pour un junior avec moins de 3 ans d'expérience (sans compter études et stages) me semble cohérent.
 
 ## Une bonne communication avec le staff commercial
+
+![colaboration 2](/assets/scott-graham-5fNmWej4tAA-unsplash.jpg)
 
 La communication avec le staff commercial est cruciale. Elle doit être un partenariat à long terme, où le commercial soutient le consultant tout au long de son parcours. Cela inclut l'écoute des aspirations professionnelles du consultant et une transparence dans les propositions de missions. Une bonne ESN investit dans le développement personnel et professionnel de ses consultants, augmentant ainsi la valeur ajoutée qu'elle apporte à ses clients.
 
