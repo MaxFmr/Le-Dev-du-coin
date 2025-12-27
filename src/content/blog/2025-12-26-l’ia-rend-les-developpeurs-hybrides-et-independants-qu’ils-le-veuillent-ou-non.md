@@ -3,7 +3,7 @@ author: Maxime Kerlidou
 pubDatetime: 2025-12-26T15:23:36.401Z
 title: L’IA rend les développeurs hybrides et indépendants
 postSlug: ia-developpeurs-hybrides-independants
-featured: false
+featured: true
 draft: false
 tags:
   - ia
