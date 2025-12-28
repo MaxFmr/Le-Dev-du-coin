@@ -11,7 +11,7 @@ tags:
   - freelance
   - travail
   - software-engineering
-ogImage: /assets/ChatGPT Image 27 déc. 202522_44_03.png
+ogImage: /assets/ia-developpeurs-hybrides-independants.png
 description: L’IA transforme le métier de développeur en profondeur en déplaçant la valeur du code vers la responsabilité la polyvalence et l'indépendance.
 ---
 
