@@ -23,7 +23,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 const socialImageURL = new URL(
   ogImage ? ogImage : SITE.ogImage,
-  Astro.url.origin
+  Astro.site ?? SITE.website
 ).href;
 ---
 
@@ -43,10 +43,12 @@ const socialImageURL = new URL(
     <meta name="author" content={author} />
 
     <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="article" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalURL} />
     <meta property="og:image" content={socialImageURL} />
+    <meta property="og:site_name" content={SITE.title} />
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
