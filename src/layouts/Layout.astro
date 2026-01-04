@@ -1,7 +1,9 @@
 ---
 import { SITE } from "@config";
 import "@styles/base.css";
-import { Analytics } from "@vercel/analytics/react";
+import { inject } from "@vercel/analytics";
+
+inject();
 
 const googleSiteVerification = import.meta.env.PUBLIC_GOOGLE_SITE_VERIFICATION;
 
@@ -81,6 +83,5 @@ const socialImageURL = new URL(
   </head>
   <body>
     <slot />
-    <Analytics />
   </body>
 </html>
